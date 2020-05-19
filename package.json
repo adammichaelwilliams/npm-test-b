@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "color-string": "1.4.0"
+    "color-string": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
